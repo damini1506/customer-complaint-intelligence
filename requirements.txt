@@ -1,0 +1,29 @@
+
+# Data Analysis
+numpy
+pandas
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+scipy
+joblib
+
+# NLP
+nltk
+spacy
+transformers
+torch
+sentence-transformers
+
+# Semantic Search / Vector Database
+chromadb
+
+# Web Application
+flask
+flask-sqlalchemy
+
+# Utilities
+python-dotenv
+tqdm
