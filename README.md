@@ -342,3 +342,12 @@ Runs both prediction and semantic similarity search in a single call.
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## 👩‍💻 Author
+
+**Damini Sharma**
+
+B.Tech CSE (AI & DS) Student
+- LinkedIn: [Damini Sharma](https://www.linkedin.com/in/damini-sharma-819855329/)
+
+If you find this project useful, feel free to ⭐ the repository!
